@@ -20,7 +20,7 @@ Data are available from Figshare: https://dx.doi.org/10.6084/m9.figshare.2360626
 
 ## Citation
 
-If you use [Dysphasia SLI Analysis](https://github.com/manojkaushik/Dysphasia-detection-using-deep-learning) code in your research, we would appreciate a citation to both the original paper:
+If you use [Dysphasia SLI Analysis](https://github.com/manojkaushik/Dysphasia-detection-using-deep-learning) code in your research, we would appreciate a citation to the original paper:
 
 "*Kaushik, Manoj, et al. "SLINet: Dysphasia detection in children using deep neural network." Biomedical Signal Processing and Control 68 (2021): 102798.*"
 
